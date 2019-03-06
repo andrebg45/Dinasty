@@ -1,0 +1,27 @@
+Git -- controle de versão de arquivos e códigos, 
+
+1ª coisa Clonar o repositório
+git clone ++++++ endereço do repositório
+
+2º entrar no repositorio
+cd ++++ nome da pasta
+
+git config --global user.email ""
+
+
+git config --global user.name ""
+git add *
+
+git commit -m "arquivo "
+// commit o que c fez
+
+3º subindo os arquivos
+git push origin master
+
+git config --global --unset credential.helper.
+
+git config --system --unset credential.helper  
+
+git config --unset-all --global user.name
+git config --unset-all --global user.email
+
